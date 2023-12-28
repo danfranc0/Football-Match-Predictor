@@ -1,5 +1,11 @@
 pandas
+# Model
 numpy
 seaborn
+matplotlib
 scikit-learn
+# Scraper
+requests
+beautifulsoup4
+lxml
 -e .
