@@ -4,6 +4,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
+dill
 # Scraper
 requests
 beautifulsoup4
