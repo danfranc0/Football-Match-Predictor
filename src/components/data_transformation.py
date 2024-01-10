@@ -28,7 +28,7 @@ class DataTransformation:
         '''
         try:
             numerical_columns = ["gf", "ga", "sh", "sot", "dist", "fk", "pk", "pkatt", "xg"]
-            categorical_columns = ["venue", "result", "opponent"]
+            categorical_columns = ["venue_code", "opp_code"]
 
             num_pipeline = Pipeline(
                 steps = [
